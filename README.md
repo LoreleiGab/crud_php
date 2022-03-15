@@ -1,2 +1,8 @@
 # crud_php
-Template pra crud báscio em PHP
+Template básico para crud em PHP
+
+# Requisitos
+- NodeJs
+
+# Intruções
+- Rodar npm install na raiz do projeto

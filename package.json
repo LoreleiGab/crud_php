@@ -1,0 +1,24 @@
+{
+  "name": "crud_php",
+  "version": "1.0.0",
+  "description": "Template pra crud básico em PHP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoreleiGab/crud_php.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoreleiGab/crud_php/issues"
+  },
+  "homepage": "https://github.com/LoreleiGab/crud_php#readme",
+  "dependencies": {
+    "admin-lte": "3.1.0",
+    "jquery-mask-plugin": "1.14.16",
+    "moment": "^2.29.1"
+  }
+}
